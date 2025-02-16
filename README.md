@@ -11,8 +11,8 @@ Map-Vue3 เป็น web application ที่ใช้  Leaflet-map  สำห
 ### 2. Clone โปรเจค
 
 ```
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/Anuwath-D/Map-Vue3.git
+cd Map-Vue3
 ```
 
 ### 3. ติดตั้ง Dependencies
